@@ -1,0 +1,72 @@
+D:\Files\Work\BSUIR\7sem\COS\laba3\drevesnaya_plita_laba3\laba3\bin\Debug\net5.0-windows\laba3.exe
+D:\Files\Work\BSUIR\7sem\COS\laba3\drevesnaya_plita_laba3\laba3\bin\Debug\net5.0-windows\laba3.deps.json
+D:\Files\Work\BSUIR\7sem\COS\laba3\drevesnaya_plita_laba3\laba3\bin\Debug\net5.0-windows\laba3.runtimeconfig.json
+D:\Files\Work\BSUIR\7sem\COS\laba3\drevesnaya_plita_laba3\laba3\bin\Debug\net5.0-windows\laba3.runtimeconfig.dev.json
+D:\Files\Work\BSUIR\7sem\COS\laba3\drevesnaya_plita_laba3\laba3\bin\Debug\net5.0-windows\laba3.dll
+D:\Files\Work\BSUIR\7sem\COS\laba3\drevesnaya_plita_laba3\laba3\bin\Debug\net5.0-windows\ref\laba3.dll
+D:\Files\Work\BSUIR\7sem\COS\laba3\drevesnaya_plita_laba3\laba3\bin\Debug\net5.0-windows\laba3.pdb
+D:\Files\Work\BSUIR\7sem\COS\laba3\drevesnaya_plita_laba3\laba3\obj\Debug\net5.0-windows\laba3.Form1.resources
+D:\Files\Work\BSUIR\7sem\COS\laba3\drevesnaya_plita_laba3\laba3\obj\Debug\net5.0-windows\laba3.csproj.GenerateResource.cache
+D:\Files\Work\BSUIR\7sem\COS\laba3\drevesnaya_plita_laba3\laba3\obj\Debug\net5.0-windows\laba3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files\Work\BSUIR\7sem\COS\laba3\drevesnaya_plita_laba3\laba3\obj\Debug\net5.0-windows\laba3.AssemblyInfoInputs.cache
+D:\Files\Work\BSUIR\7sem\COS\laba3\drevesnaya_plita_laba3\laba3\obj\Debug\net5.0-windows\laba3.AssemblyInfo.cs
+D:\Files\Work\BSUIR\7sem\COS\laba3\drevesnaya_plita_laba3\laba3\obj\Debug\net5.0-windows\laba3.csproj.CoreCompileInputs.cache
+D:\Files\Work\BSUIR\7sem\COS\laba3\drevesnaya_plita_laba3\laba3\obj\Debug\net5.0-windows\laba3.dll
+D:\Files\Work\BSUIR\7sem\COS\laba3\drevesnaya_plita_laba3\laba3\obj\Debug\net5.0-windows\ref\laba3.dll
+D:\Files\Work\BSUIR\7sem\COS\laba3\drevesnaya_plita_laba3\laba3\obj\Debug\net5.0-windows\laba3.pdb
+D:\Files\Work\BSUIR\7sem\COS\laba3\drevesnaya_plita_laba3\laba3\obj\Debug\net5.0-windows\laba3.genruntimeconfig.cache
+D:\Files\Work\BSUIR\7sem\COS\laba3\drevesnaya_plita_laba3\laba3\obj\Debug\net5.0-windows\laba3.csproj.AssemblyReference.cache
+D:\Files\Work\BSUIR\7sem\COS\laba3 — копия\drevesnaya_plita_laba3\laba3\bin\Debug\net5.0-windows\laba3.exe
+D:\Files\Work\BSUIR\7sem\COS\laba3 — копия\drevesnaya_plita_laba3\laba3\bin\Debug\net5.0-windows\laba3.deps.json
+D:\Files\Work\BSUIR\7sem\COS\laba3 — копия\drevesnaya_plita_laba3\laba3\bin\Debug\net5.0-windows\laba3.runtimeconfig.json
+D:\Files\Work\BSUIR\7sem\COS\laba3 — копия\drevesnaya_plita_laba3\laba3\bin\Debug\net5.0-windows\laba3.runtimeconfig.dev.json
+D:\Files\Work\BSUIR\7sem\COS\laba3 — копия\drevesnaya_plita_laba3\laba3\bin\Debug\net5.0-windows\laba3.dll
+D:\Files\Work\BSUIR\7sem\COS\laba3 — копия\drevesnaya_plita_laba3\laba3\bin\Debug\net5.0-windows\ref\laba3.dll
+D:\Files\Work\BSUIR\7sem\COS\laba3 — копия\drevesnaya_plita_laba3\laba3\bin\Debug\net5.0-windows\laba3.pdb
+D:\Files\Work\BSUIR\7sem\COS\laba3 — копия\drevesnaya_plita_laba3\laba3\obj\Debug\net5.0-windows\laba3.csproj.AssemblyReference.cache
+D:\Files\Work\BSUIR\7sem\COS\laba3 — копия\drevesnaya_plita_laba3\laba3\obj\Debug\net5.0-windows\laba3.Form1.resources
+D:\Files\Work\BSUIR\7sem\COS\laba3 — копия\drevesnaya_plita_laba3\laba3\obj\Debug\net5.0-windows\laba3.csproj.GenerateResource.cache
+D:\Files\Work\BSUIR\7sem\COS\laba3 — копия\drevesnaya_plita_laba3\laba3\obj\Debug\net5.0-windows\laba3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files\Work\BSUIR\7sem\COS\laba3 — копия\drevesnaya_plita_laba3\laba3\obj\Debug\net5.0-windows\laba3.AssemblyInfoInputs.cache
+D:\Files\Work\BSUIR\7sem\COS\laba3 — копия\drevesnaya_plita_laba3\laba3\obj\Debug\net5.0-windows\laba3.AssemblyInfo.cs
+D:\Files\Work\BSUIR\7sem\COS\laba3 — копия\drevesnaya_plita_laba3\laba3\obj\Debug\net5.0-windows\laba3.csproj.CoreCompileInputs.cache
+D:\Files\Work\BSUIR\7sem\COS\laba3 — копия\drevesnaya_plita_laba3\laba3\obj\Debug\net5.0-windows\laba3.dll
+D:\Files\Work\BSUIR\7sem\COS\laba3 — копия\drevesnaya_plita_laba3\laba3\obj\Debug\net5.0-windows\ref\laba3.dll
+D:\Files\Work\BSUIR\7sem\COS\laba3 — копия\drevesnaya_plita_laba3\laba3\obj\Debug\net5.0-windows\laba3.pdb
+D:\Files\Work\BSUIR\7sem\COS\laba3 — копия\drevesnaya_plita_laba3\laba3\obj\Debug\net5.0-windows\laba3.genruntimeconfig.cache
+C:\Users\diana_q1chryi\Desktop\Image-smoothing-algorithms-main\laba3\bin\Debug\net5.0-windows\laba3.exe
+C:\Users\diana_q1chryi\Desktop\Image-smoothing-algorithms-main\laba3\bin\Debug\net5.0-windows\laba3.deps.json
+C:\Users\diana_q1chryi\Desktop\Image-smoothing-algorithms-main\laba3\bin\Debug\net5.0-windows\laba3.runtimeconfig.json
+C:\Users\diana_q1chryi\Desktop\Image-smoothing-algorithms-main\laba3\bin\Debug\net5.0-windows\laba3.runtimeconfig.dev.json
+C:\Users\diana_q1chryi\Desktop\Image-smoothing-algorithms-main\laba3\bin\Debug\net5.0-windows\laba3.dll
+C:\Users\diana_q1chryi\Desktop\Image-smoothing-algorithms-main\laba3\bin\Debug\net5.0-windows\laba3.pdb
+C:\Users\diana_q1chryi\Desktop\Image-smoothing-algorithms-main\laba3\obj\Debug\net5.0-windows\laba3.csproj.AssemblyReference.cache
+C:\Users\diana_q1chryi\Desktop\Image-smoothing-algorithms-main\laba3\obj\Debug\net5.0-windows\laba3.Form1.resources
+C:\Users\diana_q1chryi\Desktop\Image-smoothing-algorithms-main\laba3\obj\Debug\net5.0-windows\laba3.csproj.GenerateResource.cache
+C:\Users\diana_q1chryi\Desktop\Image-smoothing-algorithms-main\laba3\obj\Debug\net5.0-windows\laba3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana_q1chryi\Desktop\Image-smoothing-algorithms-main\laba3\obj\Debug\net5.0-windows\laba3.AssemblyInfoInputs.cache
+C:\Users\diana_q1chryi\Desktop\Image-smoothing-algorithms-main\laba3\obj\Debug\net5.0-windows\laba3.AssemblyInfo.cs
+C:\Users\diana_q1chryi\Desktop\Image-smoothing-algorithms-main\laba3\obj\Debug\net5.0-windows\laba3.csproj.CoreCompileInputs.cache
+C:\Users\diana_q1chryi\Desktop\Image-smoothing-algorithms-main\laba3\obj\Debug\net5.0-windows\laba3.dll
+C:\Users\diana_q1chryi\Desktop\Image-smoothing-algorithms-main\laba3\obj\Debug\net5.0-windows\refint\laba3.dll
+C:\Users\diana_q1chryi\Desktop\Image-smoothing-algorithms-main\laba3\obj\Debug\net5.0-windows\laba3.pdb
+C:\Users\diana_q1chryi\Desktop\Image-smoothing-algorithms-main\laba3\obj\Debug\net5.0-windows\laba3.genruntimeconfig.cache
+C:\Users\diana_q1chryi\Desktop\Image-smoothing-algorithms-main\laba3\obj\Debug\net5.0-windows\ref\laba3.dll
+C:\Users\diana_q1chryi\Desktop\LAB3\laba3\bin\Debug\net5.0-windows\laba3.exe
+C:\Users\diana_q1chryi\Desktop\LAB3\laba3\bin\Debug\net5.0-windows\laba3.deps.json
+C:\Users\diana_q1chryi\Desktop\LAB3\laba3\bin\Debug\net5.0-windows\laba3.runtimeconfig.json
+C:\Users\diana_q1chryi\Desktop\LAB3\laba3\bin\Debug\net5.0-windows\laba3.runtimeconfig.dev.json
+C:\Users\diana_q1chryi\Desktop\LAB3\laba3\bin\Debug\net5.0-windows\laba3.dll
+C:\Users\diana_q1chryi\Desktop\LAB3\laba3\bin\Debug\net5.0-windows\laba3.pdb
+C:\Users\diana_q1chryi\Desktop\LAB3\laba3\obj\Debug\net5.0-windows\laba3.csproj.AssemblyReference.cache
+C:\Users\diana_q1chryi\Desktop\LAB3\laba3\obj\Debug\net5.0-windows\laba3.Form1.resources
+C:\Users\diana_q1chryi\Desktop\LAB3\laba3\obj\Debug\net5.0-windows\laba3.csproj.GenerateResource.cache
+C:\Users\diana_q1chryi\Desktop\LAB3\laba3\obj\Debug\net5.0-windows\laba3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana_q1chryi\Desktop\LAB3\laba3\obj\Debug\net5.0-windows\laba3.AssemblyInfoInputs.cache
+C:\Users\diana_q1chryi\Desktop\LAB3\laba3\obj\Debug\net5.0-windows\laba3.AssemblyInfo.cs
+C:\Users\diana_q1chryi\Desktop\LAB3\laba3\obj\Debug\net5.0-windows\laba3.csproj.CoreCompileInputs.cache
+C:\Users\diana_q1chryi\Desktop\LAB3\laba3\obj\Debug\net5.0-windows\laba3.dll
+C:\Users\diana_q1chryi\Desktop\LAB3\laba3\obj\Debug\net5.0-windows\refint\laba3.dll
+C:\Users\diana_q1chryi\Desktop\LAB3\laba3\obj\Debug\net5.0-windows\laba3.pdb
+C:\Users\diana_q1chryi\Desktop\LAB3\laba3\obj\Debug\net5.0-windows\laba3.genruntimeconfig.cache
+C:\Users\diana_q1chryi\Desktop\LAB3\laba3\obj\Debug\net5.0-windows\ref\laba3.dll
